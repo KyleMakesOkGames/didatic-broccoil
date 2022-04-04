@@ -1,2 +1,0 @@
-# didatic-broccoil
-game
